@@ -1,0 +1,5 @@
+Renewable energy comes from sources that are naturally replenished, such as sunlight, wind, rain, 
+and geothermal heat. Solar power uses photovoltaic cells to convert sunlight into electricity, while 
+wind turbines transform wind energy into power. These sources are increasingly important as the world 
+moves away from fossil fuels to combat climate change. However, challenges remain in energy 
+storage and grid integration.

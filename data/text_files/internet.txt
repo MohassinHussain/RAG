@@ -1,0 +1,5 @@
+The internet began as a research project funded by the U.S. Department of Defense in the 1960s. 
+Known as ARPANET, it connected several universities to share information digitally. 
+By the 1990s, the World Wide Web was developed by Tim Berners-Lee, making it possible 
+for anyone to publish and access content through browsers. Today, the internet is a global 
+system linking billions of devices and enabling services like email, cloud computing, and social media.
